@@ -35,7 +35,8 @@ Marks Evaulation Page
 
 
  View Page
-![image](https://github.com/Pranav13-09/Scaler_Mentor/assets/102225590/fa476245-4136-4885-8569-a1b1643c7f32)
+![image](https://github.com/Pranav13-09/Scaler_Mentor/assets/102225590/1cec7f1d-d3d5-4891-8294-bd3fa318b13d)
+
 
 
 ## Deploy on Vercel
