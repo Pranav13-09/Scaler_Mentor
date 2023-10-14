@@ -26,10 +26,13 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Screenshots
 Create Group Page
-![App Screenshot](https://i.ibb.co/PMDCWHn/Page-4.png)
+![image](https://github.com/Pranav13-09/Scaler_Mentor/assets/102225590/4a26ee71-f354-4cfe-a20c-3db02adb682b)
+
 
 Marks Evaulation Page
-![App Screenshot](https://i.ibb.co/7g6M08p/Page-5.png)  
+![image](https://github.com/Pranav13-09/Scaler_Mentor/assets/102225590/514e702e-7cb3-4ace-81be-efe07510253e)
+
+
 
  View Page
 ![image](https://github.com/Pranav13-09/Scaler_Mentor/assets/102225590/fa476245-4136-4885-8569-a1b1643c7f32)
