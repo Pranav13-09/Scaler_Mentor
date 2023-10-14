@@ -22,6 +22,8 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+##workflow
+The mentor begins on the "Create Group" page, where they have the ability to select students by their Roll Numbers. They can add or remove students from the group. After creating the group, the mentor can evaluate students based on various criteria, evaluating them individually. Additionally, they have the option to edit the marks of students. However, once the marks are finalized, further edits are not permitted.
 
 
 ## Screenshots
