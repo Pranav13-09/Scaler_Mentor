@@ -239,7 +239,8 @@ const router = useRouter();
                   !isGrouped ?   <select
                 value={student.rollNumber}
                 onChange={(e) => handleStudentChange(index, 'rollNumber', e.target.value)}
-                className="w-1/2 p-2 border border-gray-300 rounded"
+                    className="w-1/2 p-2 border border-gray-300 rounded"
+                    disabled={student.isValidated}
                 >
                 <option value="">Select Roll Number</option>
                 {rollNumbers.map((rollNumber, idx) => (
