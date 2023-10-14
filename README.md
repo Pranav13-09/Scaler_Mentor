@@ -26,7 +26,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Screenshots
 Create Group Page
-![App Screenshot](https://i.ibb.co/nmGY5Tw/Page1.png)
+![App Screenshot](https://i.ibb.co/PMDCWHn/Page-4.png)
 
 Marks Evaulation Page
 ![App Screenshot](https://i.ibb.co/3mZg9wd/Page2.png)  
