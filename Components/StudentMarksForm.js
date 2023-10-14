@@ -58,6 +58,7 @@ const StudentMarksForm = ({ student, onUpdateMarks,isFinalized }) => {
           min="0"
           max="10"
           required={true}
+          disabled={isFinal}
         />
       </div>
     ))}
