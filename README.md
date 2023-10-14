@@ -29,10 +29,11 @@ Create Group Page
 ![App Screenshot](https://i.ibb.co/PMDCWHn/Page-4.png)
 
 Marks Evaulation Page
-![App Screenshot](https://i.ibb.co/3mZg9wd/Page2.png)  
+![App Screenshot](https://i.ibb.co/7g6M08p/Page-5.png)  
 
  View Page
-![App Screenshot](https://i.ibb.co/W3TQR59/Page3.png)
+![image](https://github.com/Pranav13-09/Scaler_Mentor/assets/102225590/fa476245-4136-4885-8569-a1b1643c7f32)
+
 
 ## Deploy on Vercel
 
