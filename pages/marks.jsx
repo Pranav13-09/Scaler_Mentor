@@ -68,7 +68,6 @@ const StudentMarks = () => {
     setLoading(false)
       }
 
-
       const areAllCriteriaFilledForAllStudents = (students) => {
       for (const student of students) {
         if (!areAllCriteriaFilledForStudent(student)) {
@@ -111,6 +110,8 @@ const StudentMarks = () => {
         console.log("i am here")
       toast.error("Please evaluate all students before finalizing marks, as some of them have not been assessed yet")
       }
+
+      setTxt("Finalize")
       }
 
   if(loading){
