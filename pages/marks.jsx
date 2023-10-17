@@ -26,7 +26,8 @@ const StudentMarks = () => {
             mentorId : "6528cb9fb4322259507b2233"
           })
           console.log(response,"i am response")
-          router.reload()
+        //  router.reload()
+        await fetchStudents()
           toast.success("Marks Successfully Updated")
 
     }catch(err){
@@ -97,7 +98,8 @@ const StudentMarks = () => {
                 isFinalized : true
               });
             
-            router.reload()
+            // router.reload()
+            await fetchStudents()
               toast.success("Marks of student Finalized. Now you can download the pdf")
             console.log(response,"i am response")
             }catch(err){

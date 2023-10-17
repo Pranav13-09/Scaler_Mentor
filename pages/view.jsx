@@ -152,7 +152,7 @@ const ViewStudentsPage = () => {
  
 
 
-      {/* Table */}
+
       <div className="overflow-x-auto">
         <table className="min-w-full">
           <thead>

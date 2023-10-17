@@ -88,7 +88,6 @@ const router = useRouter();
          const updatedStudents = students.map((student, index) => {
            const responseStudent = required[index]; 
            console.log(responseStudent,"i am responseStudent inside")
-
            if (responseStudent !== undefined) {
                 console.log("I am inide the return okk")
                 return {
@@ -102,7 +101,7 @@ const router = useRouter();
            }
            return null;
              
-         }).filter(student => student !== null);;
+         }).filter(student => student !== null);
            console.log(updatedStudents,"i am updated students okk")
 
            setStudents(updatedStudents);
